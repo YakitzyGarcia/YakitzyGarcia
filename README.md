@@ -29,12 +29,15 @@ Strategic QA Leader with over 4 years of experience driving quality excellence a
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYakitzyGarcia%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" alt="Yakitzy's GitHub stats" />
+🛡️ Core Proficiency
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYakitzyGarcia%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Langs" />
-</div>
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Selenium_WebDriver-43B02A%3Fstyle%3Dfor-the-badge%26logo%3Dselenium%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-SQL_Advanced-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Jira_Software-0052CC%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite" />
+</p>
 
 ---
 
