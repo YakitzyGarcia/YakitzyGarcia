@@ -33,12 +33,6 @@ Strategic QA Leader with over 4 years of experience driving quality excellence a
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYakitzyGarcia%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" alt="Yakitzy's GitHub stats" />
 
-
-
-
-
-
-
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYakitzyGarcia%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Langs" />
 </div>
 ---
