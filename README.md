@@ -29,9 +29,6 @@ Strategic QA Leader with over 4 years of experience driving quality excellence a
 
 ---
 
-
----
-
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakitzy-garc%C3%ADa-gonz%C3%A1lez-qa)
 
