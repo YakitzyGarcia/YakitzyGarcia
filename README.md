@@ -29,6 +29,18 @@ Strategic QA Leader with over 4 years of experience driving quality excellence a
 
 ---
 
+🛡️ Core Proficiency
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Selenium_WebDriver-43B02A%3Fstyle%3Dfor-the-badge%26logo%3Dselenium%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-SQL_Advanced-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Jira_Software-0052CC%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite" />
+</p>
+
+---
+
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakitzy-garc%C3%ADa-gonz%C3%A1lez-qa)
 
