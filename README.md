@@ -35,6 +35,7 @@ Strategic QA Leader with over 4 years of experience driving quality excellence a
 
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYakitzyGarcia%26layout%3Dcompact%26theme%3Dtokyonight" alt="Top Langs" />
 </div>
+
 ---
 
 ### 📫 Connect with me
